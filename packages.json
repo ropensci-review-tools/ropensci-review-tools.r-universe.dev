@@ -1,0 +1,22 @@
+[
+    {
+        "package": "autotest",
+        "url": "https://github.com/ropensci-review-tools/autotest"
+    },
+    {
+        "package": "pkgcheck",
+        "url": "https://github.com/ropensci-review-tools/pkgcheck"
+    },
+    {
+        "package": "pkgstats",
+        "url": "https://github.com/ropensci-review-tools/pkgstats"
+    },
+    {
+        "package": "roreviewapi",
+        "url": "https://github.com/ropensci-review-tools/roreviewapi"
+    },
+    {
+        "package": "srr",
+        "url": "https://github.com/ropensci-review-tools/srr"
+    }
+]
