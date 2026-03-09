@@ -4,12 +4,40 @@
         "url": "https://github.com/ropensci-review-tools/autotest"
     },
     {
+        "package": "babeldown",
+        "url": "https://github.com/ropensci-review-tools/babeldown"
+    },
+    {
+        "package": "babelquarto",
+        "url": "https://github.com/ropensci-review-tools/autotest"
+    },
+    {
+        "package": "dashboard",
+        "url": "https://github.com/ropensci-review-tools/dashboard"
+    },
+    {
+        "package": "goodpractice",
+        "url": "https://github.com/ropensci-review-tools/goodpractice"
+    },
+    {
+        "package": "orgmetrics",
+        "url": "https://github.com/ropensci-review-tools/orgmetrics"
+    },
+    {
         "package": "pkgcheck",
         "url": "https://github.com/ropensci-review-tools/pkgcheck"
     },
     {
+        "package": "pkgmatch",
+        "url": "https://github.com/ropensci-review-tools/pkgmatch"
+    },
+    {
         "package": "pkgstats",
         "url": "https://github.com/ropensci-review-tools/pkgstats"
+    },
+    {
+        "package": "repometrics",
+        "url": "https://github.com/ropensci-review-tools/repometrics"
     },
     {
         "package": "roreviewapi",
@@ -18,13 +46,5 @@
     {
         "package": "srr",
         "url": "https://github.com/ropensci-review-tools/srr"
-    },
-    {
-        "package": "pkgmatch",
-        "url": "https://github.com/ropensci-review-tools/pkgmatch"
-    },
-    {
-        "package": "repometrics",
-        "url": "https://github.com/ropensci-review-tools/repometrics"
     }
 ]
