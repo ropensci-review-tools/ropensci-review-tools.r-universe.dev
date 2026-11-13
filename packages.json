@@ -1,15 +1,11 @@
 [
     {
-        "package": "autotest",
-        "url": "https://github.com/ropensci-review-tools/autotest"
-    },
-    {
         "package": "babeldown",
         "url": "https://github.com/ropensci-review-tools/babeldown"
     },
     {
         "package": "babelquarto",
-        "url": "https://github.com/ropensci-review-tools/autotest"
+        "url": "https://github.com/ropensci-review-tools/babelquarto"
     },
     {
         "package": "dashboard",
@@ -42,10 +38,6 @@
     {
         "package": "roreviewapi",
         "url": "https://github.com/ropensci-review-tools/roreviewapi"
-    },
-    {
-        "package": "spaceout",
-        "url": "https://github.com/ropensci-review-tools/spaceout"
     },
     {
         "package": "srr",
